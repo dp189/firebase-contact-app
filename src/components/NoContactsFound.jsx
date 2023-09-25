@@ -4,7 +4,7 @@ const NoContactsFound = () => {
         <div>
             <img src="./Hands.png"/>
         </div>
-        <h1 className='text-white text-2xl font-semibold'>Contacts Not Found.☹️</h1>
+        <h1 className='text-white text-xl font-semibold'>Contacts Not Found.☹️</h1>
     </div>
   )
 }
